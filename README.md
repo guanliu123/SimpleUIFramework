@@ -33,8 +33,7 @@
 
 **客制化组件，请挂载到Panel父物体上。以字典的形式保存Panel下可能用到的UI组件，方便在Panel类中获取并进行操作。**
 
-![image](https://github.com/user-attachments/assets/bf9c973d-beba-4962-8a40-2f4f013efe42)
-
+![image](https://github.com/user-attachments/assets/fb9890c8-4497-4020-859d-785d88114002)
 
 点击Add添加新的UI组件，从左到右分别为：
 
